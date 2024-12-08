@@ -7,6 +7,8 @@ It has a unique ability to let you drop all cards from your hand and opponent ha
 This entire program is written in C++ and visualization is done in the commandline. 
 Here are some screenshots from the gameplay.
 
+The source code is in durakelis/durakelis.cpp
+
 ![image](https://github.com/user-attachments/assets/bdbe7641-3f0d-40f9-9f14-79d13f2dbfb0)
 
 ![image](https://github.com/user-attachments/assets/4756167f-cdce-4d7f-b193-ad337541d3cb)
