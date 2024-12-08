@@ -1,4 +1,4 @@
-#Durak(fool)
+# Durak(fool)
 
 A russian card game where you play against computer. 
 This my created game has one extra card which is not in the original game.
