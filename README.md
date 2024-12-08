@@ -1,4 +1,5 @@
-#Durak (fool)
+#Durak(fool)
+
 A russian card game where you play against computer. 
 This my created game has one extra card which is not in the original game.
 It has a unique ability to let you drop all cards from your hand and opponent hand.
